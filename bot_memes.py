@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from get_memes_for_api import get_memes
 # from get_neiro_memes import get_neiro_memes
 
-token = '6199663612:AAHk-t0gjsgDEHyXHsUn-cqgsHteRjIIG9A'
+token = 'your token'
 bot = Bot(token=token)
 disp = Dispatcher(bot)
 
